@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "express-ws": "latest"
+    }
+}
